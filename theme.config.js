@@ -1,7 +1,8 @@
 // theme.config.js
 export default {
   repository: "https://github.com/shuding/nextra", // project repo
-  docsRepository: "https://github.com/shuding/nextra", // docs repo
+  docsRepository:
+    "https://github.com/hironakazuki/nextra-information-gathering", // docs repo
   branch: "master", // branch of docs
   path: "/", // path of docs
   titleSuffix: " – 情報収集",
